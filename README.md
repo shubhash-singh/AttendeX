@@ -1,0 +1,2 @@
+# AttendeX
+ Attendence Manager Application
